@@ -1,4 +1,4 @@
-= Carnegie RFP Samples
+# Carnegie RFP Samples
 
 1. OHMS/ the idiosyncratic xml format used by the OHMS project
 2. SRT/ https://matroska.org/technical/specs/subtitles/srt.html
