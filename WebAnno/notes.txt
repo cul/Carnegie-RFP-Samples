@@ -1,0 +1,52 @@
+Web Annotation Spec: https://www.w3.org/annotation/
+Selector specs to identify media range:
+https://www.w3.org/TR/annotation-model/#fragment-selector
+https://www.w3.org/TR/media-frags/#naming-time
+
+
+WebVTT:
+
+00:00:44.000 --> 00:04:02.000
+{
+  "title": "Introduction",
+  "partial_transcript": "Where were you born and where did you grow up?",
+  "synopsis": "Gayheart discusses childhood and family life in Frankfort, Kentucky.",
+  "keywords": "Childhood and family background, high school,",
+  "subjects": "Childhood;family life;Frankfort (Ky.)",
+  "gps": "",
+  "gps_zoom": "",
+  "gps_text": "",
+  "hyperlink": "",
+  "hyperlink_text": ""
+}
+
+WebAnno:
+
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "http://example.org/anno20",
+  "type": "Annotation",
+  "body": {
+    "purpose": "describing",
+    "source" : {
+      "title": "Introduction",
+      "partial_transcript": "Where were you born and where did you grow up?",
+      "synopsis": "Gayheart discusses childhood and family life in Frankfort, Kentucky.",
+      "keywords": "Childhood and family background, high school,",
+      "subjects": "Childhood;family life;Frankfort (Ky.)",
+      "gps": "",
+      "gps_zoom": "",
+      "gps_text": "",
+      "hyperlink": "",
+      "hyperlink_text": ""
+    }
+  },
+  "target": {
+    "source": "https://oralhistory.uky.edu/spokedbaudio/2014oh158_gn010_collins_acc001.mp3"
+    "selector": {
+      "type": "FragmentSelector",
+      "conformsTo": "http://www.w3.org/TR/media-frags/",
+      "value": "t=00:00:44.000,00:04:02.000"
+    }
+  }
+}
