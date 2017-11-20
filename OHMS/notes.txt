@@ -1,0 +1,3 @@
+Most recent OHMS schema and XML samples along with documentation are found here. The OHMS project is maintained by The Louie B. Nunn Center for Oral History at the University of Kentucky.
+
+http://www.oralhistoryonline.org/
