@@ -1,49 +1,19 @@
 ﻿WEBVTT
 
-00:00:00.000 --> 00:48:00.000
-Kind: metadata
-Date: 1983-08-01
+NOTE
+This is informative interview-level metadata that is not editable in the synchronizer
 Title: SAMPLE: Interview with Beulah  Collins, August 1, 1983
+Date: 1983-08-01
 Accession: 2014OH158 GN 010
-Duration: 0:47:12
-CollectionId: OHGN
-CollectionName: Goin' North: Tales of the Great Migration
-SeriesId: GN001
-SeriesName: Goin' North: Tales of the Great Migration
-Repository: Louie B. Nunn Center for Oral History, University of Kentucky Libraries
-Subject: Domestic work
-Subject: Philadelphia (Pa.)
-Subject: African Americans--Education.
-Subject: United States--Race relations.
-Subject: African Americans--Employment.
-Subject: African Americans--Conduct of life.
-Subject: African Americans--Economic conditions.
-Subject: African Americans--Social conditions.
-Subject: Philadelphia (Pa.)--Social conditions.
-Keyword: Depressions--1929
-Keyword: Influenza Epidemic, 1918-1919.
-Keyword: Discrimination in employment.
-Keyword: African American families
-Keyword: African Americans--Housing.
-Interviewee: Beulah  Collins
-Interviewer: Charles  Hardy
-FileName: 2014oh158_gn010_collins_acc001.mp3
-MediaUrl: https://oralhistory.uky.edu/spokedbaudio/2014oh158_gn010_collins_acc001.mp3
-ClipFormat: audio
 
 
 00:00:02.000 --> 00:05:43.000
 {
   "title": "Hometown of Snow Hill, Maryland: Life on the farm",
   "partial_transcript": "Okay. All set?",
-  "synopsis": "Beulah Collins speaks fondly about growing up in the country, raising chickens and growing vegetables.",
+  "description": "Beulah Collins speaks fondly about growing up in the country, raising chickens and growing vegetables.",
   "keywords": "Philadelphia (Pa.);Widows;Wilmington, Delaware",
-  "subjects": "African American families;African Americans--Housing.;Childhood",
-  "gps": "38.1750, 75.3908",
-  "gps_zoom": "",
-  "gps_text": "Snow Hill, Maryland",
-  "hyperlink": "http://goinnorth.org/files/original/89897b631d37cb7faf8ace7508200ed1.jpg",
-  "hyperlink_text": "Portrait of Beulah Collins, circa 1984. Courtesy of www.GoinNorth.org."
+  "subjects": "African American families;African Americans--Housing.;Childhood"
 }
 
 
@@ -51,14 +21,9 @@ ClipFormat: audio
 {
   "title": "Moving to Philadelphia, circa 1919",
   "partial_transcript": "When did you come up to Philadelphia? When did you come north?",
-  "synopsis": "Collins discusses her decision to move north after her husband died during the 1918 influenza epidemic and her parents passed away, taking her siblings' advice to seek opportunities for better wages and an education for her son.",
+  "description": "Collins discusses her decision to move north after her husband died during the 1918 influenza epidemic and her parents passed away, taking her siblings' advice to seek opportunities for better wages and an education for her son.",
   "keywords": "Domestic work;First great migration;Philadelphia (Pa.)",
-  "subjects": "African American families;African Americans--Conduct of life.;African Americans--Economic conditions.;African Americans--Education.;African Americans--Employment.;African Americans--Social conditions.;Philadelphia (Pa.)--Social conditions.",
-  "gps": "\n\n",
-  "gps_zoom": "",
-  "gps_text": "\n\n",
-  "hyperlink": "\n\n",
-  "hyperlink_text": "\n\n"
+  "subjects": "African American families;African Americans--Conduct of life.;African Americans--Economic conditions.;African Americans--Education.;African Americans--Employment.;African Americans--Social conditions.;Philadelphia (Pa.)--Social conditions."
 }
 
 
@@ -66,14 +31,9 @@ ClipFormat: audio
 {
   "title": "Domestic service: Living with the Richard family in Philadelphia",
   "partial_transcript": "So when you came up here, then, did you go to work? ",
-  "synopsis": "Collins explains how she began working as a domestic worker for the wealthy Richard family on Chestnut Hill.",
+  "description": "Collins explains how she began working as a domestic worker for the wealthy Richard family on Chestnut Hill.",
   "keywords": "Domestic work;Philadelphia (Pa.)",
-  "subjects": "African Americans--Conduct of life.;African Americans--Employment.;African Americans--Social conditions.;Philadelphia (Pa.)--Social conditions.",
-  "gps": "40.065846, -75.202665",
-  "gps_zoom": "",
-  "gps_text": "Coordinates to the Richard's home on Chestnut Hill",
-  "hyperlink": "http://goinnorth.org/files/original/672e740116a2e695c20f7c590c9d570f.jpg",
-  "hyperlink_text": "The Richard family lived on 7810 Lincoln Drive, in a house built in 1906. This photograph captures the house as it stands over a century later, in 2014."
+  "subjects": "African Americans--Conduct of life.;African Americans--Employment.;African Americans--Social conditions.;Philadelphia (Pa.)--Social conditions."
 }
 
 
@@ -81,14 +41,9 @@ ClipFormat: audio
 {
   "title": "On boarding her son with \"Mom\" Taylor",
   "partial_transcript": "But ahead of my story before then. I did work for another lady out, way out in Ardmore somewhere.",
-  "synopsis": "Collins recounts spending a portion of her earnings paying “Mom\" Taylor to look after her only son, as he could not live with her at the Richard residence. She shares her happiness and contentment that \"Mom\" Taylor treated her son like one of her own children.",
+  "description": "Collins recounts spending a portion of her earnings paying “Mom\" Taylor to look after her only son, as he could not live with her at the Richard residence. She shares her happiness and contentment that \"Mom\" Taylor treated her son like one of her own children.",
   "keywords": "Childcare;Domestic work;Low wages;Philadelphia (Pa.)",
-  "subjects": "African American families;African Americans--Conduct of life.;African Americans--Economic conditions.;African Americans--Employment.;African Americans--Social conditions.;Philadelphia (Pa.)--Social conditions.",
-  "gps": "\n\n",
-  "gps_zoom": "",
-  "gps_text": "\n\n",
-  "hyperlink": "\n\n",
-  "hyperlink_text": "\n\n"
+  "subjects": "African American families;African Americans--Conduct of life.;African Americans--Economic conditions.;African Americans--Employment.;African Americans--Social conditions.;Philadelphia (Pa.)--Social conditions."
 }
 
 
@@ -96,14 +51,9 @@ ClipFormat: audio
 {
   "title": "Domestic service in Philadelphia",
   "partial_transcript": "Now, um, you know, I'm very interested in finding out more about domestic service. ",
-  "synopsis": "Collins describes how she was \"pretty well satisfied\" doing domestic work to ensure her son had a good education. She shares how she used to go up and look at the brides during weddings at a church on Saint Martins Lane.",
+  "description": "Collins describes how she was \"pretty well satisfied\" doing domestic work to ensure her son had a good education. She shares how she used to go up and look at the brides during weddings at a church on Saint Martins Lane.",
   "keywords": "Domestic service;Philadelphia (Pa.)",
-  "subjects": "African American families;African Americans--Conduct of life.;African Americans--Education.;African Americans--Employment.;African Americans--Recreation;African Americans--Social conditions.;Philadelphia (Pa.)--Social conditions.",
-  "gps": "40.065567, -75.206903",
-  "gps_zoom": "",
-  "gps_text": "The Church of St. Martin-in-the-Fields in Chestnut Hill",
-  "hyperlink": "http://goinnorth.org/files/original/d92e7e3fc7fa35b01ba94cbb4e411a26.png",
-  "hyperlink_text": "Drawing of the Church of St. Martin-in-the-Fields, c. 1889. Courtesy of www.GoinNorth.org."
+  "subjects": "African American families;African Americans--Conduct of life.;African Americans--Education.;African Americans--Employment.;African Americans--Recreation;African Americans--Social conditions.;Philadelphia (Pa.)--Social conditions."
 }
 
 
@@ -111,14 +61,9 @@ ClipFormat: audio
 {
   "title": "Domestic service: Low wages",
   "partial_transcript": "What were your wages like? ",
-  "synopsis": "Collins shares how she made $13 a week and how she had to stretch it to provide for her son. She talks about how she always had enough to eat during the Great Depression because she lived with the Richards family. She also shares her feelings about wearing a uniform, which the family bought for her.",
+  "description": "Collins shares how she made $13 a week and how she had to stretch it to provide for her son. She talks about how she always had enough to eat during the Great Depression because she lived with the Richards family. She also shares her feelings about wearing a uniform, which the family bought for her.",
   "keywords": "Domestic work;Low wages;Wearing a uniform",
-  "subjects": "African Americans--Economic conditions.;African Americans--Employment.;African Americans--Housing.;African Americans--Social conditions.;Depressions--1929;Philadelphia (Pa.)--Social conditions.;United States--Race relations.",
-  "gps": "\n\n",
-  "gps_zoom": "",
-  "gps_text": "\n\n",
-  "hyperlink": "http://goinnorth.org/files/original/2e33be79ff23fe07cebab9b5c270a92c.jpg",
-  "hyperlink_text": "Edgar W. Roster, \"$5 Weekly Is Average For Domestic Aide,\" Philadelphia Tribune, May 9, 1935. Used by permission of the Philadelphia Tribune Company, Inc. All rights reserved. The Philadelphia Tribune, with 130 years of continuous publication, is the oldest newspaper in the United States serving the African-American community."
+  "subjects": "African Americans--Economic conditions.;African Americans--Employment.;African Americans--Housing.;African Americans--Social conditions.;Depressions--1929;Philadelphia (Pa.)--Social conditions.;United States--Race relations."
 }
 
 
@@ -126,14 +71,9 @@ ClipFormat: audio
 {
   "title": "Domestic service: Long hours",
   "partial_transcript": "What were your hours like?",
-  "synopsis": "Collins recounts her daily routine and duties as a domestic worker, including squeezing fresh orange juice for breakfast, sweeping the porch, making the beds, getting the boys off to school, serving the meals, washing the dishes, and tidying the house. Once a week, she polished the silver. Mrs. Richard hired another woman to do the heavy washing and ironing. She shares that her days began at 7:00am and ended at 8:00pm, thirteen hours hours later. She says that she had Sundays and Thursday afternoons off. Still, she rarely complained. She also shares that one of the Richard's sons married a granddaughter of Washington Atlee Burpee, the founder of Burpee Seed Company.",
+  "description": "Collins recounts her daily routine and duties as a domestic worker, including squeezing fresh orange juice for breakfast, sweeping the porch, making the beds, getting the boys off to school, serving the meals, washing the dishes, and tidying the house. Once a week, she polished the silver. Mrs. Richard hired another woman to do the heavy washing and ironing. She shares that her days began at 7:00am and ended at 8:00pm, thirteen hours hours later. She says that she had Sundays and Thursday afternoons off. Still, she rarely complained. She also shares that one of the Richard's sons married a granddaughter of Washington Atlee Burpee, the founder of Burpee Seed Company.",
   "keywords": "Daily routines;Domestic work",
-  "subjects": "African Americans--Conduct of life.;African Americans--Employment.;African Americans--Social conditions.;Philadelphia (Pa.)--Social conditions.;United States--Race relations.",
-  "gps": "\n\n",
-  "gps_zoom": "",
-  "gps_text": "\n\n",
-  "hyperlink": "http://goinnorth.org/files/original/697624df0dc54030ebc7d6f14ded38f6.jpg",
-  "hyperlink_text": "\"Domestic Service,\" Philadelphia Tribune, May 17, 1924. Used by permission of the Philadelphia Tribune Company, Inc. All rights reserved. The Philadelphia Tribune, with 130 years of continuous publication, is the oldest newspaper in the United States serving the African-American community."
+  "subjects": "African Americans--Conduct of life.;African Americans--Employment.;African Americans--Social conditions.;Philadelphia (Pa.)--Social conditions.;United States--Race relations."
 }
 
 
@@ -141,14 +81,9 @@ ClipFormat: audio
 {
   "title": "Work options as a Black woman in Philadelphia",
   "partial_transcript": "Now when you came up you were a young woman up from the South--",
-  "synopsis": "Collins describes learning to be a good live-in domestic, and discusses her distaste for laundry and factory work.",
+  "description": "Collins describes learning to be a good live-in domestic, and discusses her distaste for laundry and factory work.",
   "keywords": "Domestic work;Factory work;Laundry work",
-  "subjects": "African Americans--Conduct of life.;African Americans--Employment.;African Americans--Social conditions.;Discrimination in employment.;Philadelphia (Pa.)--Social conditions.",
-  "gps": "\n\n",
-  "gps_zoom": "",
-  "gps_text": "\n\n",
-  "hyperlink": "\n\n",
-  "hyperlink_text": "\n\n"
+  "subjects": "African Americans--Conduct of life.;African Americans--Employment.;African Americans--Social conditions.;Discrimination in employment.;Philadelphia (Pa.)--Social conditions."
 }
 
 
@@ -156,14 +91,9 @@ ClipFormat: audio
 {
   "title": "Memories of the South and her husband's death in 1918",
   "partial_transcript": "How, how do you think, uh--how did Philadelphia compare to, uh, to--when you, when you arrived in the city, when you were first living here, I guess after you moved in from Ardmore. ",
-  "synopsis": "Collins reminisces about life on the farm as a young woman and shares the reasons why she never had a desire to return to Maryland. She explains why she never remarried for fear that a new husband might not be good to her son. She shares how she heard about her husband's death at Fort Meade in 1918 and how she intends to be buried beside him when she dies.",
+  "description": "Collins reminisces about life on the farm as a young woman and shares the reasons why she never had a desire to return to Maryland. She explains why she never remarried for fear that a new husband might not be good to her son. She shares how she heard about her husband's death at Fort Meade in 1918 and how she intends to be buried beside him when she dies.",
   "keywords": "Influenza Epidemic of 1918;Maryland",
-  "subjects": "African American families;African Americans--Conduct of life.;African Americans--Marriage.;African Americans--Social conditions.;Influenza Epidemic, 1918-1919.",
-  "gps": "\n\n",
-  "gps_zoom": "",
-  "gps_text": "\n\n",
-  "hyperlink": "http://goinnorth.org/files/original/d1aa8aff05efd7498a35eefa02e74f48.jpg",
-  "hyperlink_text": "Camp Meade Draft Board, 1918.\nMany African-American men who entered the army during World War I were inducted into the military at Camp Meade in Maryland. Courtesy of www.GoinNorth.org."
+  "subjects": "African American families;African Americans--Conduct of life.;African Americans--Marriage.;African Americans--Social conditions.;Influenza Epidemic, 1918-1919."
 }
 
 
@@ -171,13 +101,8 @@ ClipFormat: audio
 {
   "title": "Memories of her childhood as a tenant farmer's daughter",
   "partial_transcript": "Now, did your family, uh--you grew up on the farm, right?",
-  "synopsis": "Collins recalls the crops her father grew as a tenant farmer: wheat, corn, potatoes, and \"most everything,\" She speculates about the course her life may have taken had she stayed in the South.",
+  "description": "Collins recalls the crops her father grew as a tenant farmer: wheat, corn, potatoes, and \"most everything,\" She speculates about the course her life may have taken had she stayed in the South.",
   "keywords": "Corn;Maryland;Potatoes;Tenant farmers;Wheat",
-  "subjects": "African American families;African Americans--Conduct of life.;African Americans--Social conditions.",
-  "gps": "\n\n",
-  "gps_zoom": "",
-  "gps_text": "\n\n",
-  "hyperlink": "\n\n",
-  "hyperlink_text": "\n\n"
+  "subjects": "African American families;African Americans--Conduct of life.;African Americans--Social conditions."
 }
 
