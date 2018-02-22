@@ -1,0 +1,25 @@
+<html>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<video id="carsync" width="480" height="360" controls src="http://firehose.cul.columbia.edu:1935/mediacache/_definst_/mp4:access/carnegie_sample/CARN27_v_1_READY_TO_EXPORT/playlist.m3u8" type="application/vnd.apple.mpegurl">
+  This browser doesn't support HTML5 video :(
+</video>
+<script>
+  if(Hls.isSupported()) {
+    var video = document.getElementById('carsync');
+    var hls = new Hls();
+    hls.loadSource(video.src);
+    hls.attachMedia(video);
+    hls.on(Hls.Events.MANIFEST_PARSED,function() {
+      video.play();
+  });
+ }
+ // hls.js is not supported on platforms that do not have Media Source Extensions (MSE) enabled.
+ // When the browser has built-in HLS support (check using `canPlayType`), we can provide an HLS manifest (i.e. .m3u8 URL) directly to the video element throught the `src` property.
+ // This is using the built-in support of the plain video element, without using hls.js.
+  else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+    video.addEventListener('canplay',function() {
+      video.play();
+    });
+  }
+</script>
+</html>
