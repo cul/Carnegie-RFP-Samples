@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<!-- http://ableplayer.github.io/ableplayer/demos/video3.html -->
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Able Player Video Demo #3</title>
+<link rel="stylesheet" href="demos.css" type="text/css">
+
+<!-- Dependencies -->
+<!-- http://ableplayer.github.io/ableplayer/thirdparty/modernizr.custom.js -->
+<script src="modernizr.custom.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<!-- http://ableplayer.github.io/ableplayer/thirdparty/js.cookie.js -->
+<script src="js.cookie.js"></script>
+
+<!-- Able Player CSS -->
+<!-- http://ableplayer.github.io/ableplayer/build/ableplayer.min.css -->
+<link rel="stylesheet" href="ableplayer.min.css" type="text/css"/>
+
+<!-- Able Player JavaScript -->
+<!-- http://ableplayer.github.io/ableplayer/build/ableplayer.js -->
+<script src="ableplayer.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+
+</head>
+
+<body>
+
+<h1>Able Player Video Demo #3:<br/>Video player with text-based audio description (VTT)</h1>
+
+<p>For additional demos see the <a href="index.html">Index of <em>Able Player</em> Examples</a>.</p>
+
+<!-- use the following markup for each media element -->
+<video id="video1" preload="auto" width="480" height="360" poster="http://ableplayer.github.io/ableplayer/media/wwa.jpg" data-able-player type="application/vnd.apple.mpegurl" src="http://firehose.cul.columbia.edu:1935/mediacache/_definst_/mp4:access/carnegie_sample/CARN27_v_1_READY_TO_EXPORT/playlist.m3u8">
+	<track kind="captions" src="wwa_captions_en.vtt"/>
+	<track kind="descriptions" src="wwa_description_en.vtt"/>
+  This browser doesn't support HTML5 video :(
+</video>
+<script>
+  if(Hls.isSupported()) {
+    var video = document.getElementById('video1');
+    var hls = new Hls();
+    hls.loadSource(video.src);
+    hls.attachMedia(video);
+    hls.on(Hls.Events.MANIFEST_PARSED,function() {
+      // commenting out autoplay for navigation to work more sensibly
+      //video.play();
+  });
+ }
+ // hls.js is not supported on platforms that do not have Media Source Extensions (MSE) enabled.
+ // When the browser has built-in HLS support (check using `canPlayType`), we can provide an HLS manifest (i.e. .m3u8 URL) directly to the video element throught the `src` property.
+ // This is using the built-in support of the plain video element, without using hls.js.
+  else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+    video.addEventListener('canplay',function() {
+      // commenting out autoplay for navigation to work more sensibly
+      //video.play();
+    });
+  }
+</script>
+</body>
+</html>
