@@ -1,0 +1,79 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "http://example.org/10.7916/XXXXXXXX/index1",
+  "type": "AnnotationPage",
+  "partOf": {
+    "id": "http://example.org/10.7916/XXXXXXXX",
+    "label": "10.7916/XXXXXXXX",
+    "total": 1
+  },
+  "startIndex": 0,
+  "items": [
+    {
+      "id": "http://example.org/10.7916/XXXXXXXX/anno1",
+      "type": "Annotation",
+      "body": {
+        "purpose": "describing",
+        "source": {
+          "title": "Introduction",
+          "partial_transcript": "Where were you born and where did you grow up?",
+          "description": "Gayheart discusses childhood and family life in Frankfort, Kentucky.",
+          "keywords": "Childhood and family background, high school,",
+          "subjects": "Childhood;family life;Frankfort (Ky.)"
+        }
+      },
+      "target": {
+        "source": "https://path/to/media/file",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "t=00:00:44.000,00:04:02.000"
+        }
+      }
+    },
+    {
+      "id": "http://example.org/10.7916/XXXXXXXX/anno2",
+      "type": "Annotation",
+      "body": {
+        "purpose": "describing",
+        "source": {
+          "title": "The Comittment",
+          "partial_transcript": "I had friends in so many different circles.  Some going to college",
+          "description": "Considering a college education in high school and deciding to make the commitment to enter into the military.  Discusses interaction with the recruiter and the decision to enter into the Marines.  Recalls preparation leading up to signing the paperwork.",
+          "keywords": "College, Enlistment;Marine Corps;Recruiter;USMC",
+          "subjects": "Education;Higher education;Marines"
+        }
+      },
+      "target": {
+        "source": "https://path/to/media/file",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "t=00:04:02.000,00:18:53.000"
+        }
+      }
+    },
+    {
+      "id": "http://example.org/10.7916/XXXXXXXX/anno3",
+      "type": "Annotation",
+      "body": {
+        "purpose": "describing",
+        "source" : {
+          "title": "9/11",
+          "partial_transcript": "What were you doing on Septermber 11, when the attacks happened inside the United States?",
+          "description": "Discusses personal impact of September 11 attacks in New York City.  ",
+          "keywords": "personal impact;September 11, 2001;Terrorism;World Trade Center",
+          "subjects": "New York (N.Y.)"
+          }
+      },
+      "target": {
+        "source": "https://path/to/media/file",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "t=00:18:53.000,00:23:34.000"
+        }
+      }
+    }
+  ]
+}

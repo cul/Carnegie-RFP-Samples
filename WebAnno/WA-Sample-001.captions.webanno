@@ -1,0 +1,69 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "http://example.org/10.7916/XXXXXXXX/transcript1",
+  "type": "AnnotationPage",
+  "partOf": {
+    "id": "http://example.org/10.7916/XXXXXXXX",
+    "label": "10.7916/XXXXXXXX",
+    "total": 1
+  },
+  "startIndex": 0,
+  "items": [
+    {
+      "id": "http://example.org/10.7916/XXXXXXXX/sync0",
+      "type": "Annotation",
+      "body": {
+         "type" : "TextualBody",
+         "value" : "Gutmann: We have at Penn over sixty service learning courses a year and a quarter of our undergraduate student body does academically based service learning. It’s a really distinctive feature of the Penn education, and I don’t think there’s any other Ivy League institution that’s as culturally and educationally invested in showing our undergraduates how their education connects them to their community.<br/>",
+         "format" : "text/html",
+         "language" : "en"
+       },
+      "target": {
+        "source": "https://path/to/media/file",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "t=00:00:00.000,00:01:00.000"
+        }
+      }
+    },
+    {
+      "id": "http://example.org/10.7916/XXXXXXXX/sync1",
+      "type": "Annotation",
+      "body": {
+         "type" : "TextualBody",
+         "value" : "Q: Has your work at Penn been influenced otherwise by your service on the board at Carnegie, in addition to this award and implementing the award? <br/>Gutmann: Yes. I think that by being a board member at Carnegie, I go back with more insights about how important and in what ways Penn can be a more locally and globally engaged university. It’s important that Carnegie aligns with the mission of socially engaged universities. That just gives me ideas but also just more confidence that it is extremely important that Penn and other major research universities show that by breaking out of silos, by integrating knowledge across disciplines, we can maximize our social impact. And I get ideas all the time from Carnegie board meetings about how we can do that. But more important than the how is that, yes, it makes sense to do this. It isn’t a dilution of the idea that we’re pursuing knowledge for its own sake—knowledge for its own sake is incredibly important. But an important part of why it’s so important is if you don’t pursue knowledge for its own sake, you’re going to be very short-term and short-sighted. You have to see that the",
+         "format" : "text/html",
+         "language" : "en"
+       },
+      "target": {
+        "source": "https://path/to/media/file",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "t=00:01:00.000,00:02:00.000"
+        }
+      }
+    },
+
+    {
+      "id": "http://example.org/10.7916/XXXXXXXX/sync2",
+      "type": "Annotation",
+      "body": {
+         "type" : "TextualBody",
+         "value" : "pursuit of knowledge has great social impact, and you have to see it in specific ways. And so I’ve gotten more avid in my focus on the way in which our best faculty make a difference in the world, not just a difference in the Academy. <br/>Q: You’ve spoken quite a bit during this interview about endurance, focus, persistence. When you look at the Corporation, where would you like to see it in five or ten years? <br/>Gutmann: It’s a great question but let me add to your list. Endurance, persistence, all of that’s important, but so is enthusiasm. I love the Emerson line, “Nothing great was ever achieved without enthusiasm.” I mean, persistence without enthusiasm is dull and dead. If you will, there’s a lot of pleasure to be gotten from showing what a great foundation can do in the world, and I think that kind of pleasure is embodied in Vartan’s spirit and, I think, the spirit of the board. But now to answer your question. I’d like to see some of the major ideas and projects that Carnegie is now pursuing actually evidenced, that the world and our society has changed in the direction of those ideas and projects, whether it be immigration reform, reform of K-12 education, more nuclear disarmament, a better sense of how the developing world’s potential has been realized. Ten years from now, if on those four things there’s discernible change in the world that can be traced to some of the ideas and programs that Carnegie has avidly pursued, that would be enormous success. <br/>Q: Touché. Now I’m going to ask you the most",
+         "format" : "text/html",
+         "language" : "en"
+       },
+      "target": {
+        "source": "https://path/to/media/file",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "t=00:02:00.000,00:03:00.000"
+        }
+      }
+    }
+
+  ]
+}
